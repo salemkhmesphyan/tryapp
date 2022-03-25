@@ -1,0 +1,2 @@
+print("salem 1")
+
